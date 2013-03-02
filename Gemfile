@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'activesupport', github: 'rails/rails', branch: 'master'
-gem 'activemodel', github: 'rails/rails', branch: 'master'
+gem 'activesupport', "4.0.0.beta1"
+gem 'activemodel', "4.0.0.beta1"
 gem 'rails-observers', github: 'rails/rails-observers', branch: 'master'
 gem 'rake'
 
